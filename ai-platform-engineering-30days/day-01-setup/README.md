@@ -13,11 +13,5 @@ Set up a local AI + platform lab and make sure no secret can ever be committed.
 6. `ollama pull llama3.2`
 7. `python day-01-setup/verify_setup.py`
 
-## 💡 Takeaways
-- _fill in_
-
-## ❌ What broke & how I fixed it
-- _fill in_
-
 ## 🔐 Security note
 API keys live only in `.env` (gitignored) and gitleaks runs before every commit. Spend limit set.
