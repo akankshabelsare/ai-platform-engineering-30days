@@ -12,3 +12,4 @@ __pycache__/
 *.pyc
 # agent audit logs may contain sensitive data
 logs/
+linkedin/
