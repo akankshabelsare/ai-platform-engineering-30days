@@ -22,8 +22,6 @@ Understand what an LLM really is, set up a local AI + platform lab, and make sur
 - `grep` logs before pasting them: less noise, lower cost, better answer.
 - Hallucinations come from missing context or the knowledge cutoff. Treat AI output like a PR from a new teammate: review it and test it before prod.
 
-## ❌ What broke & how I fixed it
-- _fill in_
 
 ## 🔐 Security note
 API keys live only in `.env` (gitignored) and gitleaks runs before every commit. Spend limit set.

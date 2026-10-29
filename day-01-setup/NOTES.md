@@ -51,3 +51,4 @@ Same weights, different input → different answer. **Context is everything.**
 ## Resources
 - Andrej Karpathy, "Intro to Large Language Models" (YouTube, 1 hr), watch tonight
 - Andrej Karpathy, "Deep Dive into LLMs like ChatGPT" (YouTube, 3.5 hr), over the week
+
