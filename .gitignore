@@ -1,0 +1,14 @@
+# secrets — never commit
+.env
+*.pem
+*.key
+kubeconfig*
+*.tfstate
+*.tfstate.*
+.terraform/
+# python
+__pycache__/
+.venv/
+*.pyc
+# agent audit logs may contain sensitive data
+logs/

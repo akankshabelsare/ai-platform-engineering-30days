@@ -1,0 +1,12 @@
+[project]
+name = "ai-platform-engineering-30days"
+version = "0.1.0"
+description = "30 days of AI for Platform Engineering: MCP, agents, security"
+requires-python = ">=3.11"
+dependencies = [
+  "anthropic>=0.40",
+  "mcp[cli]>=1.2",
+  "kubernetes>=31.0",
+  "python-dotenv>=1.0",
+  "requests>=2.32",
+]
